@@ -1,0 +1,4 @@
+xgboost                 0.978346
+logisticsRegression     0.897778
+SGD                     0.831401
+Adaboost                0.903110
